@@ -1,2 +1,0 @@
-# udwmj-clock
-Atividade Relógio 
